@@ -1,0 +1,6 @@
+{
+  "name": "ASTRAYA - Plataforma Agronômica",
+  "description": "Plataforma para gerenciamento, parâmetros agronômicos, cultivo de cannabis, diagnose de deficiências, MIP, clima INMET e calculadoras para a associação ASTRAYA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
